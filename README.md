@@ -13,6 +13,16 @@ I build **production-grade web platforms, agentic AI systems, and scalable data 
 
 ---
 
+## 🏆 Key Engineering Achievements & Milestones
+
+- ✈️ **437,000+ Production Fare Observations:** Architected and deployed an automated, anti-detection data pipeline for APIx that ingested over 437K+ clean rows across 21+ continuous days with zero IP bans.
+- 🥇 **Smart India Hackathon (SIH 2026):** Engineered the core analytical engine solving Problem Statement 26056 (MoSPI / RBI) using DGCA-weighted Jevons price geometric indexing and real-time surge velocity.
+- 🛡️ **Enterprise Agentic AI Reliability:** Built Project Atlas featuring 100% automated test coverage (25/25 Pytest suite), multi-document Entitlement-aware RAG, prompt injection defense, and automated financial formula validation.
+- 💳 **Production Fintech / SaaS Integration:** Engineered TableReserve with end-to-end Razorpay payment gateway integration, cryptographic signature validation, and multi-tenant RBAC.
+- ☁️ **100% Cloud-Native & Deployed:** Multi-service cloud deployments across Render, MongoDB Atlas, PostgreSQL, and Vercel with automated CI/CD pipelines.
+
+---
+
 ## 👨‍💻 About Me
 
 - 🚀 **Scale & Data Engineering:** Architected automated data pipelines processing **437,000+ clean fare quotes** with zero-block anti-detection and sub-second analytical retrieval.
@@ -65,13 +75,15 @@ I build **production-grade web platforms, agentic AI systems, and scalable data 
 
 ---
 
-## 🚀 Featured Industry-Grade Projects
+## 🚀 Featured Industry-Grade Projects (Live Cloud Deployments)
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ✈️ APIx — Airline Price Index & Market Intelligence Platform
+[![Live Demo](https://img.shields.io/badge/Live%20Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://apix-frontend.onrender.com)
+[![API Docs](https://img.shields.io/badge/Swagger%20Docs-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://apix-backend.onrender.com/docs)
 
 A production-grade aviation fare tracking and market intelligence system monitoring dynamic surge velocity across high-density DGCA trunk routes.
 
@@ -79,24 +91,25 @@ A production-grade aviation fare tracking and market intelligence system monitor
 - Ingested & normalized **437,000+ verified clean quotes** over **21+ days of continuous live monitoring**.
 - Engineered with **FastAPI**, **PostgreSQL** (with psycopg3), and **Next.js 14** App Router.
 - Implements economic formulas: **Jevons Price Index**, Hourly Surge Velocity, and Multi-Horizon median trackers (T1 to T45).
-- Fully deployed and hosted on **Render**.
 
-[Repository](https://github.com/Nishant7621/APIx)
+🔗 **[🌐 Live Web Dashboard](https://apix-frontend.onrender.com)** · **[📖 Swagger API Docs](https://apix-backend.onrender.com/docs)** · **[💻 GitHub Repo](https://github.com/Nishant7621/APIx)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ Project Atlas — Enterprise Agentic Report Copilot
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://project-atlas-report-copilot.onrender.com/)
+[![API Docs](https://img.shields.io/badge/Swagger%20Docs-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://project-atlas-report-copilot.onrender.com/docs)
 
 An enterprise-grade Cognitive Market Research Copilot designed to analyze voluminous business reports with strict enterprise guardrails.
 
 **Highlights:**
 - Multi-document **Entitlement-aware RAG** pipeline with citation tracing.
 - Automated document conflict reconciliation and financial calculation engine.
-- Built-in **prompt-injection defense** and structured schema output verification.
+- Built-in **prompt-injection defense** and structured schema output verification (25/25 Pytests passing).
 - Interfaced with legacy PHP CodeIgniter 3 architecture.
 
-[Repository](https://github.com/Nishant7621/project-atlas-report-copilot)
+🔗 **[🌐 Live Web Demo](https://project-atlas-report-copilot.onrender.com/)** · **[📖 Swagger API Docs](https://project-atlas-report-copilot.onrender.com/docs)** · **[💻 GitHub Repo](https://github.com/Nishant7621/project-atlas-report-copilot)**
 
 </td>
 </tr>
@@ -104,6 +117,7 @@ An enterprise-grade Cognitive Market Research Copilot designed to analyze volumi
 <td width="50%" valign="top">
 
 ### 🍽️ TableReserve — Full-Stack MERN Reservation Platform
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://resturant-table-reservation-managment.onrender.com/)
 
 A deployed restaurant discovery and table reservation platform with multi-tenant role-based dashboards and payment gateway integration.
 
@@ -112,12 +126,13 @@ A deployed restaurant discovery and table reservation platform with multi-tenant
 - **Razorpay Payment Gateway integration** featuring cryptographically signed webhooks.
 - Booking management dashboards, admin approval workflows, MongoDB Atlas & Render deployment.
 
-[Live Demo](https://resturant-table-reservation-managment.onrender.com/) · [Repository](https://github.com/Nishant7621/Resturant-Table-Reservation-Managment-System)
+🔗 **[🌐 Live Web Application](https://resturant-table-reservation-managment.onrender.com/)** · **[💻 GitHub Repo](https://github.com/Nishant7621/Resturant-Table-Reservation-Managment-System)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎾 Smart Tennis Analytics System
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render%20Cloud-46E3B7?style=flat-square&logo=render&logoColor=black)](https://smart-tennis-analytics.onrender.com)
 
 A computer vision and sports analytics pipeline tracking dynamic ball trajectory, player positioning, and shot velocity.
 
@@ -126,7 +141,7 @@ A computer vision and sports analytics pipeline tracking dynamic ball trajectory
 - Detects player court movement, speed estimation, ball bounce coordinates, and shot classification.
 - Converts video footage into actionable sports intelligence statistics.
 
-[Repository](https://github.com/Nishant7621/Smart-Tennis-Analytics-System)
+🔗 **[🌐 Live Web Demo](https://smart-tennis-analytics.onrender.com)** · **[💻 GitHub Repo](https://github.com/Nishant7621/Smart-Tennis-Analytics-System)**
 
 </td>
 </tr>
@@ -158,12 +173,15 @@ Scalable Backend   → High-Throughput Distributed Queues → Microservices → 
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Live Demos
 
 I am actively open to discussing full-time opportunities, internships, and engineering collaborations in **AI/ML Engineering, Backend Engineering, and Full-Stack Development**.
 
-- 💼 **GitHub:** [Nishant7621](https://github.com/Nishant7621)
-- 🚀 **Live Demo:** [TableReserve Platform](https://resturant-table-reservation-managment.onrender.com/)
+- ✈️ **APIx Live Dashboard:** [apix-frontend.onrender.com](https://apix-frontend.onrender.com)
+- 🛡️ **Project Atlas Live Copilot:** [project-atlas-report-copilot.onrender.com](https://project-atlas-report-copilot.onrender.com/)
+- 🍽️ **TableReserve Live Platform:** [resturant-table-reservation-managment.onrender.com](https://resturant-table-reservation-managment.onrender.com/)
+- 🎾 **Smart Tennis Analytics:** [smart-tennis-analytics.onrender.com](https://smart-tennis-analytics.onrender.com)
+- 💼 **GitHub Profile:** [github.com/Nishant7621](https://github.com/Nishant7621)
 - 📁 **All Projects:** [Explore Repositories](https://github.com/Nishant7621?tab=repositories)
 
 <div align="center">
