@@ -15,11 +15,18 @@ I build **production-grade web platforms, agentic AI systems, and scalable data 
 
 ## 🏆 Key Engineering Achievements & Milestones
 
+- 🏅 **LeetCode 100 Days Badge:** Earned the official **LeetCode 100 Days Problem Solving Badge**, demonstrating strong algorithmic proficiency, daily coding discipline, and deep mastery in core Data Structures & Algorithms (Graphs, Dynamic Programming, Trees, Arrays, Heaps).
 - ✈️ **437,000+ Production Fare Observations:** Architected and deployed an automated, anti-detection data pipeline for APIx that ingested over 437K+ clean rows across 21+ continuous days with zero IP bans.
 - 🥇 **Smart India Hackathon (SIH 2026):** Engineered the core analytical engine solving Problem Statement 26056 (MoSPI / RBI) using DGCA-weighted Jevons price geometric indexing and real-time surge velocity.
 - 🛡️ **Enterprise Agentic AI Reliability:** Built Project Atlas featuring 100% automated test coverage (25/25 Pytest suite), multi-document Entitlement-aware RAG, prompt injection defense, and automated financial formula validation.
 - 💳 **Production Fintech / SaaS Integration:** Engineered TableReserve with end-to-end Razorpay payment gateway integration, cryptographic signature validation, and multi-tenant RBAC.
 - ☁️ **100% Cloud-Native & Deployed:** Multi-service cloud deployments across Render, MongoDB Atlas, PostgreSQL, and Vercel with automated CI/CD pipelines.
+
+<p align="left">
+  <a href="https://leetcode.com/u/Nishant7621/"><img src="https://img.shields.io/badge/LeetCode-100%20Days%20Badge%20Earned-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 100 Days Badge" /></a>
+  <a href="https://apix-frontend.onrender.com"><img src="https://img.shields.io/badge/Live%20Deployments-Render%20Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render Cloud" /></a>
+  <a href="https://github.com/Nishant7621/project-atlas-report-copilot"><img src="https://img.shields.io/badge/Test%20Suite-25%2F25%20(100%25)-brightgreen?style=for-the-badge&logo=pytest" alt="Pytest Suite" /></a>
+</p>
 
 ---
 
@@ -182,6 +189,7 @@ I am actively open to discussing full-time opportunities, internships, and engin
 - 🍽️ **TableReserve Live Platform:** [resturant-table-reservation-managment.onrender.com](https://resturant-table-reservation-managment.onrender.com/)
 - 🎾 **Smart Tennis Analytics:** [smart-tennis-analytics.onrender.com](https://smart-tennis-analytics.onrender.com)
 - 💼 **GitHub Profile:** [github.com/Nishant7621](https://github.com/Nishant7621)
+- 💡 **LeetCode Profile:** [leetcode.com/u/Nishant7621](https://leetcode.com/u/Nishant7621)
 - 📁 **All Projects:** [Explore Repositories](https://github.com/Nishant7621?tab=repositories)
 
 <div align="center">
